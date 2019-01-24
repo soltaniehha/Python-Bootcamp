@@ -3,6 +3,6 @@
 # Python-Bootcamp
 This repository is comprised of notebooks, datasets, and other related materials for Python Bootcamp
 
-This repository can be access via this short link: 
+This repository can be accessed via this short link: 
 ### bit.ly/py-bootcamp
 
