@@ -1,4 +1,9 @@
 materials
+*.docx
+*.swp
+KEY-*.ipynb
+*.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
